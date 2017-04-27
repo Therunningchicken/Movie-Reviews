@@ -16,5 +16,10 @@
 		"Nam aliquam, ligula vitae sollicitudin rhoncus, tortor arcu interdum est, ac eleifend purus nisl pulvinar ipsum.",
 		"In hac habitasse platea dictumst. Nullam elementum tincidunt sapien sed aliquet. Nulla facilisi. Morbi lorem metus, sagittis id dolor quis, hendrerit condimentum odio.",
 		"Donec sapien nibh, lobortis a aliquam vitae, porta et ante."
+	],
+	"review": [
+		{
+			"message": "Edit the form and notice how the values persist after you refresh!"
+		}
 	]
 }
